@@ -1,0 +1,16 @@
+{
+  "customers":  [
+    {
+      "id": "1",
+      "firstName": "Pedro",
+      "lastName": "Gonçalves",
+      "email": "pedro.goncalves@lavinci.com"
+    },
+    {
+      "id": "2",
+      "firstName": "Gerard",
+      "lastName": "Ghazarian",
+      "email": "gerard.ghazarian@candidplatform.com"
+    }
+  ]
+}
