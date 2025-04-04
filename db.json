@@ -2,15 +2,13 @@
   "customers":  [
     {
       "id": "100",
-      "firstName": "Pedro",
-      "lastName": "Gonçalves",
+      "name": "Pedro Gonçalves",
       "email": "pedro.goncalves@lavinci.com",
       "createdDate": "2025-04-01 12:28:28"
     },
     {
       "id": "102",
-      "firstName": "Gerard",
-      "lastName": "Ghazarian",
+      "name": "Gérard Ghazarian",
       "email": "gerard.ghazarian@candidplatform.com",
       "createdDate": "2025-04-03 22:42:13"
     }
